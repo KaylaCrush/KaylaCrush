@@ -15,7 +15,7 @@ I’m currently preparing a portfolio of simulation and graphics projects and ex
 
 ## Featured Projects
 
-### Slime / Ant Pheromone Simulation  
+### Ant Pheromone Simulation  
 GPU-accelerated multi-species slime simulation using WGSL compute shaders and Rust/Bevy.  
 Emergent trail-following and pheromone-based behavior.
 
