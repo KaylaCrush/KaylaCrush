@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I’m Kayla Rieck
 
-<!--
-**KaylaCrush/KaylaCrush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a computer science student in Seattle interested in creative computing, simulation, GPU compute, and emergent systems.  
+I build experimental and interactive software where simple rules create complex behavior, often using Rust, Bevy, and WGSL compute shaders.
 
-Here are some ideas to get you started:
+My interests include:
+- Agent-based modeling  
+- Emergent behavior  
+- GPU compute and parallelism  
+- Real-time rendering  
+- Procedural generation  
+- Interactive systems and creative tools  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently preparing a portfolio of simulation and graphics projects and exploring opportunities in creative technology, R&D, and interactive systems.
+
+## Featured Projects
+
+### Slime / Ant Pheromone Simulation  
+GPU-accelerated multi-species slime simulation using WGSL compute shaders and Rust/Bevy.  
+Emergent trail-following and pheromone-based behavior.
+
+[Project Repository](https://github.com/KaylaCrush/bevy-slime)  
+[Demo Video](https://youtu.be/3XrAkhGw1iI)
+
+### Boids / Flocking Simulation  
+Boids implementation running entirely on the GPU through compute shaders, supporting thousands of agents in real time.
+
+[Project Repository](https://github.com/KaylaCrush/bevy-boids)  
+
+### L-System Plant Generator  
+Procedural plant generator using deterministic and stochastic L-systems with a stack-based turtle renderer.
+
+[Project Repository](https://github.com/KaylaCrush/bevy-l-system/)
+
+## Technologies I Work With
+
+- Rust, Python, Java  
+- WGSL / GPU compute  
+- Bevy engine  
+- Real-time rendering  
+- Data structures and algorithms  
+- Agent-based simulation  
+- Procedural generation  
+- Docker, Flask, PostgreSQL  
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/kayla-rieck-831bb5247/  
+GitHub: github.com/KaylaCrush  
