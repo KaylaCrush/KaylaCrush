@@ -20,7 +20,8 @@ GPU-accelerated multi-species slime simulation using WGSL compute shaders and Ru
 Emergent trail-following and pheromone-based behavior.
 
 [Project Repository](https://github.com/KaylaCrush/bevy-slime)  
-[![Demo Video](https://img.youtube.com/vi/3XrAkhGw1iI/0.jpg)](https://www.youtube.com/watch?v=3XrAkhGw1iI)
+[Demo Video](https://www.youtube.com/watch?v=3XrAkhGw1iI)
+[Video Still](https://img.youtube.com/vi/3XrAkhGw1iI/0.jpg)
 
 ### Boids / Flocking Simulation  
 Boids implementation running entirely on the GPU through compute shaders, supporting thousands of agents in real time.
