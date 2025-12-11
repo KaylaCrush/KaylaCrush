@@ -36,6 +36,7 @@ Procedural plant generator using deterministic and stochastic L-systems with a s
 ![L-System Flowers](https://github.com/KaylaCrush/bevy-l-system/blob/main/assets/img/bevy-lsys.PNG)
 
 ### "Wizard Garden" Virtual Terrarium
+Rasberry-Pi powered LED Matrix embedded in a 'terrarium' environment, displaying a series of 'virtual life' demos (Langton's Ant, Conway's Life, Brian's Brain, Seeds, Diffusion-Limited Aggregation, and my own custom bush algorithm) 
 ![Bush](https://github.com/KaylaCrush/KaylaCrush/blob/main/BushTerrarium.gif)
 ![Diffusion-Limited Aggregation](https://github.com/KaylaCrush/KaylaCrush/blob/main/DLATerrarium.gif)
 
