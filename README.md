@@ -35,6 +35,10 @@ Procedural plant generator using deterministic and stochastic L-systems with a s
 [Project Repository](https://github.com/KaylaCrush/bevy-l-system/)
 ![L-System Flowers](https://github.com/KaylaCrush/bevy-l-system/blob/main/assets/img/bevy-lsys.PNG)
 
+### "Wizard Garden" Virtual Terrarium
+![Bush](https://github.com/KaylaCrush/KaylaCrush/blob/main/BushTerrarium.gif)
+![Diffusion-Limited Aggregation](https://github.com/KaylaCrush/KaylaCrush/blob/main/DLATerrarium.gif)
+
 ## Technologies I Work With
 
 - Rust, Python, Java  
